@@ -12,7 +12,9 @@ export default {
     dir: 'docs'
   },
 
-  router: {     base: '/oeb-fairsoft-evaluator-post-installation/'   },
+  router: {     
+    base: '/oeb-fairsoft-evaluator-post-installation/'   
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
