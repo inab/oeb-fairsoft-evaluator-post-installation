@@ -1,6 +1,6 @@
 # OEB FAIRsoft Evaluator Post Installation page
 
-This repository contains the fallback page for the [OEB FAIRsoft Evaluator](https://github.com/apps/oeb-fairsoft-evaluator) app installation. This means that when the [OEB FAIRsoft Evaluator](https://github.com/apps/oeb-fairsoft-evaluator) app  is installed on a repository, the user will be redirected to this page. 
+This repository contains the fallback page for the [OEB FAIRsoft Evaluator app](https://github.com/apps/oeb-fairsoft-evaluator){:target="_blank"} installation. This means that when the [OEB FAIRsoft Evaluator app](https://github.com/apps/oeb-fairsoft-evaluator){:target="_blank"} is installed on a repository, the user will be redirected to this page. 
 
 This page is a simple static Nuxt page composed by one "page": the [index.vue](./pages/index.vue) page. This page looks something like this:
 
