@@ -25,7 +25,7 @@
                       can now access your repository's metadata.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle">
-                      If you were importing metadata at the FAIR4S Evaluator,
+                      If you were importing metadata at the FAIRsoft Evaluator,
                       the importation will resume automatically.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle">
