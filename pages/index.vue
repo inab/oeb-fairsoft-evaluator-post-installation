@@ -1,7 +1,7 @@
 <template>
   <v-row justify="center" class="mb-4">
       <v-col
-          cols="5"
+          cols="6"
           >
           <v-card
               elevation = "4"
@@ -24,7 +24,7 @@
                           </b> 
                       can now access your repository's metadata.
                   </v-card-text>
-                  <v-card-text class="text-subtitle subtitle">
+                  <v-card-text class="text-subtitle subtitle mt-0">
                       If you were importing metadata at the FAIRsoft Evaluator,
                       the importation will resume automatically.
                   </v-card-text>
