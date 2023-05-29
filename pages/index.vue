@@ -1,7 +1,7 @@
 <template>
   <v-row justify="center" class="mb-4">
       <v-col
-          cols="6"
+          cols="5"
           >
           <v-card
               elevation = "4"
@@ -34,9 +34,7 @@
                   <v-btn
                       @click="$router.push({ name: 'home' })"
                       class="align-self-center"
-                      
                       small
-                      
                       > 
                       Go To FAIRsoft Evaluator 
                   </v-btn>
