@@ -25,11 +25,11 @@
                       can now access your repository's metadata.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle">
-                      If you were importing metadata at the FAIR4S Evaluator,
+                      If you were importing metadata at the FAIRsoft Evaluator,
                       the importation will resume automatically.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle">
-                      To go to the FAIR4S Evaluator, click the button below.
+                      To go to the FAIRsoft Evaluator, click the button below.
                   </v-card-text>
                   <v-btn
                       @click="$router.push({ name: 'home' })"
@@ -38,7 +38,7 @@
                       small
                       
                       > 
-                      Go To FAIR4S Evaluator 
+                      Go To FAIRsoft Evaluator 
                   </v-btn>
               </v-col>
               <v-col
