@@ -1,0 +1,72 @@
+
+#app{
+      background-color: white;
+      width: 100%;
+  }
+  
+html, body, .container {
+  margin: auto;
+
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+    font-size: 2.2rem !important;
+    line-height: 4.5rem;
+    font-weight: 400;
+    color:#0b579f;
+}
+
+h2 {
+    font-family: Roboto, sans-serif;
+    font-size: 1.7rem !important;
+    line-height: 4.5rem;
+    font-weight: 500;
+    color:#000000de;
+}
+
+h6 {
+    font-family: Roboto, sans-serif;
+    font-size: 1.2rem !important;
+    line-height: 2.5rem;
+    color:#000000de; 
+
+}
+
+
+p{
+    font-family: Roboto, sans-serif;
+    font-size: .8em !important;
+    font-weight: 400;
+}
+
+.text-subtitle{
+  color: black;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  font-size: 1.4em;
+}
+
+
+.alert-text{
+  font-size: .75em;
+  font-weight: 400;
+  word-break: initial;
+}
+
+.alert-text a{
+    text-decoration-line: none;
+}
+
+.highlight{
+    color: #001752f8;
+    font-weight: 600;
+}
+
+.card-content{
+  font-size: .9em !important
+}
+
+.caption {
+  font-size: .8em !important;
+}
