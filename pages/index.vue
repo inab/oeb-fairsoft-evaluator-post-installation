@@ -70,8 +70,9 @@ methods: {
                 'https://openebench.bsc.es/observatory/',
                 '_blank'
                 );
+        }
+    }
 }
 
-}
 
 </script>
