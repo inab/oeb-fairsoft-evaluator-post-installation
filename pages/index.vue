@@ -28,15 +28,12 @@
                       If you were importing metadata at the FAIRsoft Evaluator,
                       the importation will resume automatically.
                   </v-card-text>
-                  <v-card-text class="text-subtitle subtitle">
-                      To go to the FAIRsoft Evaluator, click the button below.
-                  </v-card-text>
                   <v-btn
-                      @click="$router.push({ name: 'home' })"
+                      @click="goToEvaluator()"
                       class="align-self-center"
                       small
                       > 
-                      Go To FAIRsoft Evaluator 
+                      Go To OEB Software Observatory 
                   </v-btn>
               </v-col>
               <v-col
@@ -66,6 +63,13 @@ data(){
   return {
       illustrationSrc: '~/static/illustrations/undraw_well_done_re_3hpo.svg'
   }
+},
+methods: {
+    goToEvaluator(){
+        window.open(
+                'https://openebench.bsc.es/observatory/',
+                '_blank'
+                );
 }
 
 }
