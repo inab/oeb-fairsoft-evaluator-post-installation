@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/evabsc/projects/software-observatory/post-installation-page/post-installation/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_61b10dd0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/evabsc/projects/software-observatory/post-installation-page/post-installation/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_73fb36e0"
+  }
+]
