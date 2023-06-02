@@ -27,19 +27,13 @@
                   <v-card-text class="text-subtitle subtitle mt-0">
                       <b>You can now import your repository's metadata at the FAIRsoft Evaluator.</b>
                   </v-card-text>
-                  <v-btn
-                      @click="goToEvaluator()"
-                      class="align-self-center mt-3"
-                      small
-                      > 
-                      Go To OEB Software Observatory 
-                  </v-btn>
+                  
               </v-col>
               <v-col
                   cols="5">
                   <v-img 
                       class="mt-7 mb-5"
-                      max-width="90%"
+                      max-width="80%"
                       :src="require('~/static/illustrations/undraw_well_done_re_3hpo.svg')">
                   </v-img>
               </v-col>
