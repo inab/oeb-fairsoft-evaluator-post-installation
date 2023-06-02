@@ -25,11 +25,11 @@
                       can now access your repository's metadata.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle mt-0">
-                      You can now import your repository's metadata at the FAIRsoft Evaluator.
+                      <b>You can now import your repository's metadata at the FAIRsoft Evaluator.</b>
                   </v-card-text>
                   <v-btn
                       @click="goToEvaluator()"
-                      class="align-self-center"
+                      class="align-self-center mt-3"
                       small
                       > 
                       Go To OEB Software Observatory 
