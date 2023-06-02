@@ -25,8 +25,7 @@
                       can now access your repository's metadata.
                   </v-card-text>
                   <v-card-text class="text-subtitle subtitle mt-0">
-                      If you were importing metadata at the FAIRsoft Evaluator,
-                      the importation will resume automatically.
+                      You can now import your repository's metadata at the FAIRsoft Evaluator.
                   </v-card-text>
                   <v-btn
                       @click="goToEvaluator()"
