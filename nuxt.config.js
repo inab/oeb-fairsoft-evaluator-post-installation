@@ -18,8 +18,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - post-installation',
-    title: 'post-installation',
+    titleTemplate: '%s - OEB FAIRsoft evaluator installed',
+    title: 'OEB FAIRsoft evaluator installed',
     htmlAttrs: {
       lang: 'en'
     },
@@ -30,7 +30,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image', href: '/observatory-logo-blue.svg' }
     ]
   },
 
